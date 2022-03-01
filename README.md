@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Nizhor
+- 👀 I’m interested in software engineering and its various applications.
+- 🌱 I’m currently learning java and developing a game using python
+- 📫 nizhor4@gmail.com 
